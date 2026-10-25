@@ -25,6 +25,9 @@ Two dictionaries, keyed by ID: `students` and `exams`.
 - **Privacy-respecting**: no real data; nothing saved to disk
 - **Inclusive**: plain console program, no special requirements
 - **Modular**: each class has one clear job, reusable elsewhere
+- *SDG Alignment*: This project supports *UN Sustainable Development Goal 4 (Quality Education)*, which calls for inclusive and equitable quality education for all. The system supports this goal by giving schools a free, open-source way to create exams, grade them automatically, and track student performance — without needing paid software, internet access, or specialized hardware. This makes it especially useful in under-resourced schools where access to digital assessment tools is limited, helping teachers save time on grading while giving students faster, more consistent feedback on their learning.
+
+Want 
 
 ## Note
 Data is in-memory only and clears when the program exits.
